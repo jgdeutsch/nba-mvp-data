@@ -1,0 +1,1 @@
+Python3 scripts for scraping NBA MVP voting data for all years from the first year of voting in 1956. Data analysis scripts to determine top career NBA MVP shares accumulated and build ranking tables for flat databases.
